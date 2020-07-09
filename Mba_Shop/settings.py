@@ -130,3 +130,4 @@ MEDIA_ROOT=os.path.join(BASE_DIR,'media')
 
 LOGIN_REDIRECT_URL ='/'
 ALLOWED_HOSTS = ['ibrahimbagalwa.pythonanywhere.com']
+STATIC_ROOT ='/home/ibrahimbagalwa/mba-shop-static'
